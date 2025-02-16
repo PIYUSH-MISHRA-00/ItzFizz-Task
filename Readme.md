@@ -46,3 +46,6 @@ This project recreates the hero section of the Pha5e website with advanced anima
 - Images from Unsplash
 - GSAP for animations
 - Bootstrap for responsive design
+
+## Link
+[Link to the live site](https://piyush-mishra-00.github.io/ItzFizz-Task/)
